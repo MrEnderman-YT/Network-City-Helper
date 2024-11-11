@@ -1,3 +1,3 @@
 # Network City Helper
 
-(https://github.com/MrEnderman-YT/Network-City-Helper/blob/main/Tag%20version.svg)
+![Иллюстрация к проекту](https://github.com/MrEnderman-YT/Network-City-Helper/blob/main/Tag%20version.svg)
