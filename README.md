@@ -1,3 +1,13 @@
 # Network City Helper
 
-![Иллюстрация к проекту](https://github.com/MrEnderman-YT/Network-City-Helper/blob/main/Tag%20version.svg)
+<svg width="90" height="20" viewBox="0 0 90 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3_18)">
+<path d="M0 0H40V20H0V0Z" fill="#5F5F5F"/>
+<path d="M40 0H90V20H40V0Z" fill="#1284C4"/>
+</g>
+<defs>
+<clipPath id="clip0_3_18">
+<rect width="90" height="20" rx="3" fill="white"/>
+</clipPath>
+</defs>
+</svg>
