@@ -1,7 +1,7 @@
 <div align="center">
 <img src="data/banner%20standart%20github.png">
 
-<h1>🔑 Network City Helper</h1>
+<h1>Network City Helper</h1>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/tag-v1.0.0-blue?logo=codenewbie&logoColor=007EC6">
 
