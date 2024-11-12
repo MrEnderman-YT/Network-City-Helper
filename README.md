@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Static Badge" src="data/banner%20standart%20github.png">
+<img alt="Static Badge" src="data/logo%20github.png">
   
 <h1>Network City Helper</h1>
 
