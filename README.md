@@ -1,3 +1,4 @@
+<div align="center">
 <img src="banner%20standart%20github.png">
 
 <h1>Network City Helper</h1>
@@ -8,7 +9,7 @@
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
-
+</div>
 ## Description
 
 **Network City Helper** - асинхронный телеграм бот
