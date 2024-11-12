@@ -23,6 +23,12 @@
 _Тем не менее, стоит отметить, что предоставленный код нуждается в доработке. В текущем виде он может содержать избыточные участки кода, которые могут быть оптимизированы для повышения производительности и улучшения читаемости._
 
 ⠀
+## 🔨 Functions
+⠀
+
+asddsa
+
+⠀
 ## 🔓 Bot .env
 ⠀
 
@@ -53,16 +59,16 @@ asddsa
 - [ ] Сделать возможность входа через гос-услуги
 
 ⠀
-## 💼 Credits
+## 🗃️ Library stack
 ⠀
 
 [netschoolapi](https://github.com/nm17/netschoolapi) - асинхронный клиент для «Сетевого города»
 
-[netschoolapi](https://github.com/nm17/netschoolapi) - мой форк асинхронного клиента для «Сетевого города»
+⠀
+## 💼 Credits
+⠀
 
-[schedule](https://github.com/dbader/schedule?tab=readme-ov-file) - планировщик задач.
-
-[aiogram](https://github.com/aiogram/aiogram) - асинхронная библиотека для API Telegram Bot.
+[netschoolapi](https://github.com/nm17/netschoolapi) - асинхронный клиент для «Сетевого города»
 
 ⠀
 ## 👤 Author of Network City Helper
