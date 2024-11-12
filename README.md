@@ -76,11 +76,11 @@ none
 ## 🗃️ Library stack
 ⠀
 
-[Aiogram-3](https://github.com/nm17/netschoolapi) - полностью асинхронный фреймворк для Telegram Bot API
-[PyMySQL](https://github.com/nm17/netschoolapi) - библиотека Python для работы с базами данных MySQL.
-[Schedule](https://github.com/nm17/netschoolapi) - Планировщик заданий.
-[cryptography.fernet](https://github.com/nm17/netschoolapi) - Библиотека для обеспечения безопасности и конфиденциальности данных (шифровка данных).
-[NetSchoolAPI-fork](https://github.com/nm17/netschoolapi) - мой форк асинхронный клиент для «Сетевого города»
+* [Aiogram-3](https://github.com/nm17/netschoolapi) - полностью асинхронный фреймворк для Telegram Bot API
+* [PyMySQL](https://github.com/nm17/netschoolapi) - библиотека Python для работы с базами данных MySQL.
+* [Schedule](https://github.com/nm17/netschoolapi) - Планировщик заданий.
+* [cryptography.fernet](https://github.com/nm17/netschoolapi) - Библиотека для обеспечения безопасности и конфиденциальности данных (шифровка данных).
+* [NetSchoolAPI-fork](https://github.com/nm17/netschoolapi) - мой форк асинхронный клиент для «Сетевого города»
 
 ⠀
 ## 💼 Credits
