@@ -7,6 +7,7 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/python-v3.11.9-yellow?logo=python&logoColor=FBDE02&labelColor=gray&color=FFE100">
 <img alt="Static Badge" src="https://img.shields.io/badge/bot-Network%20City%20Helper-12C427?logo=dependabot&logoColor=12C427">
+<img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-12C4C4?style=flat&logo=gitbook&logoColor=12C4C4">
 
 </div>
 ⠀
