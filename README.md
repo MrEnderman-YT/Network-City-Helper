@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner%20standart%20github.png">
+<img width="800" height="450" src="banner%20standart%20github.png">
 
 <h1>Network City Helper</h1>
 
