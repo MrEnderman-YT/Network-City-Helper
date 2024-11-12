@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner%20standart%20github.png">
+<img src="data/banner%20standart%20github.png">
 
 <h1>Network City Helper</h1>
 
