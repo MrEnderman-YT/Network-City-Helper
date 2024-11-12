@@ -1,7 +1,7 @@
 <div align="center">
   
 <img alt="Static Badge" src="
-https://raw.githubusercontent.com/MrEnderman-YT/My-data/refs/heads/main/banner%20standart%20github.png?token=GHSAT0AAAAAACYVRUIM7VRNCQTFDCLEGK6YZZS5COA
+https://github.com/MrEnderman-YT/My-data/blob/main/banner%20standart%20github.png
 ">
   
 <h1>Network City Helper</h1>
